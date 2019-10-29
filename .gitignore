@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+.svn
+nbproject
+
+package-lock.json
+node_modules
+bower_components
+config*.json
